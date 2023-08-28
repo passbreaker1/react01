@@ -1,3 +1,7 @@
+##완료버튼 누르면 취소버튼으로 바뀌면서 done태그로 바뀌는 상황이 어렵습니다.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
